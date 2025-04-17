@@ -78,9 +78,9 @@ Amit Vitthal Patil
 
 ## 🧑‍💻 Author
 
-Your Name  
-your.email@example.com  
-https://github.com/yourusername  
+Amit Patil  
+amitvpatil8221@gmail.com  
+https://github.com/AmitPatil8221  
 
 ## 📄 License
 
